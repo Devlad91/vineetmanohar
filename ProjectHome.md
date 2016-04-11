@@ -1,0 +1,1 @@
+I'm creating this project to share various Java utility functions, classes and snippets of code that I have written and think others might find useful.
